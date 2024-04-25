@@ -15,4 +15,9 @@ public class test {
     public String yaniKyif(){
         return "yaniKyif";
     }
+
+
+    public String mergeTest(){
+        return "merged successfully!";
+    }
 }
