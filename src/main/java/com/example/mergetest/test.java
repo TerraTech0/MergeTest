@@ -12,7 +12,5 @@ public class test {
         return "im foucsing";
     }
 
-    public String checkOut(){
-        return "checkOut!";
-    }
+
 }
