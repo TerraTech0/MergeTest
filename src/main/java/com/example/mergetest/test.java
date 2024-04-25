@@ -24,4 +24,8 @@ public class test {
         return "test merge without confilict!";
     }
 
+
+    public String lastTest(){
+        return "last Test";
+    }
 }
