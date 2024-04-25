@@ -11,4 +11,8 @@ public class test {
     public String foucs(){
         return "im foucsing";
     }
+
+    public String checkOut(){
+        return "checkOut!";
+    }
 }
