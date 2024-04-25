@@ -8,4 +8,7 @@ public class test {
     public int ageage(){
         return 2;
     }
+    public String foucs(){
+        return "im foucsing";
+    }
 }
