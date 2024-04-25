@@ -20,4 +20,8 @@ public class test {
     public String mergeTest(){
         return "merged successfully!";
     }
+    public String newMethod(){
+        return "test merge without confilict!";
+    }
+
 }
