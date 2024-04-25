@@ -12,5 +12,12 @@ public class test {
         return "im foucsing";
     }
 
+    public String yaniKyif(){
+        return "yaniKyif";
+    }
 
+
+    public String mergeTest(){
+        return "merged successfully!";
+    }
 }
