@@ -2,8 +2,10 @@ package com.example.mergetest;
 
 public class test {
 
-
-    public void name(){
-        System.out.println("nawaf");
+    public String name(){
+        return "meow";
+    }
+    public int ageage(){
+        return 2;
     }
 }
